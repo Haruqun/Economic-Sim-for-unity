@@ -54,5 +54,5 @@ public class Trader : MonoBehaviour
     {
         TradeOffer newOffer = new TradeOffer(itemId, price, this);
         market.AddOffer(newOffer);
-    }
+    } 
 }

@@ -21,5 +21,5 @@ public class Market : MonoBehaviour
             return true;
         }
         return false;
-    }
+    } 
 }

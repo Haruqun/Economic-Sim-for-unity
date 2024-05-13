@@ -62,7 +62,7 @@ public class EconomyManager : MonoBehaviour
         if (priceIron < 5.0f)
         {
             priceIron = 5.0f;
-        }
+        } 
 
     }
 }
